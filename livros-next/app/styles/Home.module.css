@@ -1,0 +1,11 @@
+/* styles/Home.module.css */
+.main {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 2rem;
+    color: #e21717;
+  }
+  
